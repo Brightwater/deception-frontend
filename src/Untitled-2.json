@@ -1,0 +1,676 @@
+{
+    "gameId": "18c964f2-ee8f-4575-a3e5-ba2fb72f90db",
+    "forensicScientistPlayer": "admin",
+    "cardCount": 9,
+    "playerCount": 4,
+    "killMethods": [
+        "Suffocation",
+        "Severe Injury",
+        "Loss of Blood",
+        "Illness/Disease",
+        "Poisoning",
+        "Accident"
+    ],
+    "locations": [],
+    "hintCardsInPlay": [],
+    "players": [
+        {
+            "username": "2",
+            "playerNumber": 2,
+            "weaponCards": [
+                {
+                    "id": 88,
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Loss of Blood",
+                    "name": "Dismember",
+                    "susVotes": [],
+                    "belongsTo": "2"
+                },
+                {
+                    "id": 45,
+                    "tags": [
+                        "Accident/Arson",
+                        "Illness/Disease",
+                        "Natural"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Radiation",
+                    "susVotes": [],
+                    "belongsTo": "2"
+                },
+                {
+                    "id": 67,
+                    "tags": [
+                        "Loss of Blood"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Severe Injury",
+                    "name": "Axe",
+                    "susVotes": [],
+                    "belongsTo": "2"
+                },
+                {
+                    "id": 2,
+                    "tags": [
+                        "Synthetic",
+                        "Nature"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Pesticide",
+                    "susVotes": [],
+                    "belongsTo": "2"
+                },
+                {
+                    "id": 68,
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Severe Injury",
+                    "name": "Ice Skates",
+                    "susVotes": [],
+                    "belongsTo": "2"
+                },
+                {
+                    "id": 22,
+                    "tags": [
+                        "Arson",
+                        "Loss of Blood",
+                        "Accident/Arson",
+                        "Construction"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Severe Injury",
+                    "name": "Explosives",
+                    "susVotes": [],
+                    "belongsTo": "2"
+                },
+                {
+                    "id": 71,
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Liquid Drug",
+                    "susVotes": [],
+                    "belongsTo": "2"
+                },
+                {
+                    "id": 43,
+                    "tags": [
+                        "Synthetic"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Kerosene",
+                    "susVotes": [],
+                    "belongsTo": "2"
+                },
+                {
+                    "id": 3,
+                    "tags": [
+                        "Nature"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Loss of Blood",
+                    "name": "Bamboo Tip",
+                    "susVotes": [],
+                    "belongsTo": "2"
+                }
+            ],
+            "clueCards": [
+                {
+                    "tags": [
+                        "Nature",
+                        "Natural"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Spider",
+                    "susVotes": [],
+                    "belongsTo": "2",
+                    "id": 23
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Speaker",
+                    "susVotes": [],
+                    "belongsTo": "2",
+                    "id": 102
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Dice",
+                    "susVotes": [],
+                    "belongsTo": "2",
+                    "id": 127
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": "https://www.vhv.rs/dpng/d/113-1130144_transparent-panties-png-thong-png-download.png",
+                    "name": "Panties",
+                    "susVotes": [],
+                    "belongsTo": "2",
+                    "id": 47
+                },
+                {
+                    "tags": [
+                        "Metal",
+                        "Synthetic",
+                        "Construction"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Nails",
+                    "susVotes": [],
+                    "belongsTo": "2",
+                    "id": 40
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Mobile Phone",
+                    "susVotes": [],
+                    "belongsTo": "2",
+                    "id": 126
+                },
+                {
+                    "tags": [
+                        "Synthetic",
+                        "Apparel"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Necklace",
+                    "susVotes": [],
+                    "belongsTo": "2",
+                    "id": 24
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Lens",
+                    "susVotes": [],
+                    "belongsTo": "2",
+                    "id": 167
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Sawdust",
+                    "susVotes": [],
+                    "belongsTo": "2",
+                    "id": 157
+                }
+            ],
+            "voted": {
+                "voted": false,
+                "clue": null,
+                "weapon": null
+            }
+        },
+        {
+            "username": "3",
+            "playerNumber": 3,
+            "weaponCards": [
+                {
+                    "id": 27,
+                    "tags": [
+                        "Synthetic"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Suffocation",
+                    "name": "Packing Tape",
+                    "susVotes": [],
+                    "belongsTo": "3"
+                },
+                {
+                    "id": 61,
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Venomous Snake",
+                    "susVotes": [],
+                    "belongsTo": "3"
+                },
+                {
+                    "id": 49,
+                    "tags": [
+                        "Accident/Arson",
+                        "Electric"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Severe Injury",
+                    "name": "Electric Baton",
+                    "susVotes": [],
+                    "belongsTo": "3"
+                },
+                {
+                    "id": 9,
+                    "tags": [
+                        "Construction"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Severe Injury",
+                    "name": "Brick",
+                    "susVotes": [],
+                    "belongsTo": "3"
+                },
+                {
+                    "id": 29,
+                    "tags": [
+                        "Severe Injury",
+                        "Metal"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Loss of Blood",
+                    "name": "Machete",
+                    "susVotes": [],
+                    "belongsTo": "3"
+                },
+                {
+                    "id": 11,
+                    "tags": [
+                        "Accident/Arson",
+                        "Construction"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Severe Injury",
+                    "name": "Sculpture",
+                    "susVotes": [],
+                    "belongsTo": "3"
+                },
+                {
+                    "id": 6,
+                    "tags": [
+                        "Metal"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Loss of Blood",
+                    "name": "Box Cutter",
+                    "susVotes": [],
+                    "belongsTo": "3"
+                },
+                {
+                    "id": 41,
+                    "tags": [
+                        "Loss of Blood",
+                        "Synthetic"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Severe Injury",
+                    "name": "Whip",
+                    "susVotes": [],
+                    "belongsTo": "3"
+                },
+                {
+                    "id": 35,
+                    "tags": [
+                        "Metal"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Poisonous Needle",
+                    "susVotes": [],
+                    "belongsTo": "3"
+                }
+            ],
+            "clueCards": [
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Photograph",
+                    "susVotes": [],
+                    "belongsTo": "3",
+                    "id": 183
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Wallet",
+                    "susVotes": [],
+                    "belongsTo": "3",
+                    "id": 123
+                },
+                {
+                    "tags": [
+                        "Synthetic",
+                        "Apparel"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Flip-Flop",
+                    "susVotes": [],
+                    "belongsTo": "3",
+                    "id": 34
+                },
+                {
+                    "tags": [
+                        "Nature",
+                        "Natural"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Mosquito",
+                    "susVotes": [],
+                    "belongsTo": "3",
+                    "id": 33
+                },
+                {
+                    "tags": [
+                        "Synthetic",
+                        "Written",
+                        "Indoor"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Exam Papers",
+                    "susVotes": [],
+                    "belongsTo": "3",
+                    "id": 39
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Gear",
+                    "susVotes": [],
+                    "belongsTo": "3",
+                    "id": 51
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Computer",
+                    "susVotes": [],
+                    "belongsTo": "3",
+                    "id": 62
+                },
+                {
+                    "tags": [
+                        "Synthetic",
+                        "Written"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Invitation Card",
+                    "susVotes": [],
+                    "belongsTo": "3",
+                    "id": 32
+                },
+                {
+                    "tags": [
+                        "Nature",
+                        "Natural"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Plant",
+                    "susVotes": [],
+                    "belongsTo": "3",
+                    "id": 8
+                }
+            ],
+            "voted": {
+                "voted": false,
+                "clue": null,
+                "weapon": null
+            }
+        },
+        {
+            "username": "4",
+            "playerNumber": 4,
+            "weaponCards": [
+                {
+                    "id": 66,
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Injection",
+                    "susVotes": [],
+                    "belongsTo": "4"
+                },
+                {
+                    "id": 28,
+                    "tags": [
+                        "Metal"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Loss of Blood",
+                    "name": "Dagger",
+                    "susVotes": [],
+                    "belongsTo": "4"
+                },
+                {
+                    "id": 18,
+                    "tags": [
+                        "Synthetic",
+                        "Natural",
+                        "Suicide"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Overdose",
+                    "susVotes": [],
+                    "belongsTo": "4"
+                },
+                {
+                    "id": 30,
+                    "tags": [
+                        "Natural"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Sulfuric Acid",
+                    "susVotes": [],
+                    "belongsTo": "4"
+                },
+                {
+                    "id": 64,
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Poisoning",
+                    "name": "Dirty Water",
+                    "susVotes": [],
+                    "belongsTo": "4"
+                },
+                {
+                    "id": 53,
+                    "tags": [
+                        "Loss of Blood",
+                        "Synthetic",
+                        "Nature"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Severe Injury",
+                    "name": "Bat",
+                    "susVotes": [],
+                    "belongsTo": "4"
+                },
+                {
+                    "id": 48,
+                    "tags": [
+                        "Loss of Blood",
+                        "Metal",
+                        "Electric",
+                        "Construction"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Severe Injury",
+                    "name": "Drill",
+                    "susVotes": [],
+                    "belongsTo": "4"
+                },
+                {
+                    "id": 51,
+                    "tags": [
+                        "Metal",
+                        "Suicide",
+                        "Synthetic"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Loss of Blood",
+                    "name": "Pistol",
+                    "susVotes": [],
+                    "belongsTo": "4"
+                },
+                {
+                    "id": 56,
+                    "tags": [
+                        "Severe Injury",
+                        "Metal",
+                        "Synthetic",
+                        "Electric",
+                        "Construction"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "killMethod": "Loss of Blood",
+                    "name": "Chainsaw",
+                    "susVotes": [],
+                    "belongsTo": "4"
+                }
+            ],
+            "clueCards": [
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Tool Box",
+                    "susVotes": [],
+                    "belongsTo": "4",
+                    "id": 124
+                },
+                {
+                    "tags": [
+                        "Synthetic",
+                        "Written"
+                    ],
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Riddles",
+                    "susVotes": [],
+                    "belongsTo": "4",
+                    "id": 17
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Wig",
+                    "susVotes": [],
+                    "belongsTo": "4",
+                    "id": 99
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Dog Fur",
+                    "susVotes": [],
+                    "belongsTo": "4",
+                    "id": 115
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Skull",
+                    "susVotes": [],
+                    "belongsTo": "4",
+                    "id": 89
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Mask",
+                    "susVotes": [],
+                    "belongsTo": "4",
+                    "id": 196
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Telephone",
+                    "susVotes": [],
+                    "belongsTo": "4",
+                    "id": 59
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Diary",
+                    "susVotes": [],
+                    "belongsTo": "4",
+                    "id": 187
+                },
+                {
+                    "tags": null,
+                    "description": null,
+                    "imageUrl": null,
+                    "name": "Model",
+                    "susVotes": [],
+                    "belongsTo": "4",
+                    "id": 58
+                }
+            ],
+            "voted": {
+                "voted": false,
+                "clue": null,
+                "weapon": null
+            }
+        },
+        {
+            "username": "admin",
+            "playerNumber": 1,
+            "weaponCards": [],
+            "clueCards": [],
+            "voted": {
+                "voted": false,
+                "clue": null,
+                "weapon": null
+            }
+        }
+    ],
+    "state": "Pregame"
+}
